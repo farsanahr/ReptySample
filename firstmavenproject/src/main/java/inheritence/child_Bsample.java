@@ -6,7 +6,8 @@ public class child_Bsample extends Parent_Asample {
 		// TODO Auto-generated method stub
 		child_Bsample obj=new child_Bsample();
 		obj.display();
-		obj.show();
+	    obj.show();
+		
 		
 
 	}
